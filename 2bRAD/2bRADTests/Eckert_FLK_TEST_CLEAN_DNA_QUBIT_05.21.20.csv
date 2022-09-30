@@ -1,0 +1,33 @@
+Sample,Test Date,Original sample conc.,Unit,Sample Volume (킠),Extraction
+X1,5/21/20 16:12,348,ng/킠,1,Dispersion
+X2,5/21/20 16:13,146,ng/킠,1,Dispersion
+X3,5/21/20 16:13,290,ng/킠,1,Dispersion
+X4,5/21/20 16:13,284,ng/킠,1,Dispersion
+X5,5/21/20 16:13,832,ng/킠,1,CTAB
+X6,5/21/20 16:13,458,ng/킠,1,CTAB
+X7,5/21/20 16:13,740,ng/킠,1,CTAB
+X8,5/21/20 16:14,880,ng/킠,1,CTAB
+X9,5/21/20 16:14,476,ng/킠,1,TRIzol + Dispersion
+X10,5/21/20 16:14,248,ng/킠,1,TRIzol + Dispersion
+X11,5/21/20 16:14,390,ng/킠,1,TRIzol + Dispersion
+X12,5/21/20 16:14,474,ng/킠,1,TRIzol + Dispersion
+X13,5/21/20 16:14,24.6,ng/킠,1,TRIzol
+X14,5/21/20 16:14,4.96,ng/킠,1,TRIzol
+X15,5/21/20 16:15,2.78,ng/킠,1,TRIzol
+X16,5/21/20 16:15,35,ng/킠,1,TRIzol
+S1,5/21/20 16:15,35.4,ng/킠,1,Dispersion
+S2,5/21/20 16:15,2.9,ng/킠,1,Dispersion
+S3,5/21/20 16:15,6.36,ng/킠,1,Dispersion
+S4,5/21/20 16:15,3.14,ng/킠,1,Dispersion
+S5,5/21/20 16:16,22.8,ng/킠,1,CTAB
+S6,5/21/20 16:16,30.6,ng/킠,1,CTAB
+S7,5/21/20 16:16,18.6,ng/킠,1,CTAB
+S8,5/21/20 16:16,10.9,ng/킠,1,CTAB
+S9,5/21/20 16:16,168,ng/킠,1,TRIzol + Dispersion
+S10,5/21/20 16:16,96,ng/킠,1,TRIzol + Dispersion
+S11,5/21/20 16:16,172,ng/킠,1,TRIzol + Dispersion
+S12,5/21/20 16:16,181,ng/킠,1,TRIzol + Dispersion
+S13,5/21/20 16:17,Out of range,ng/킠,1,TRIzol
+S14,5/21/20 16:17,2.2,ng/킠,1,TRIzol
+S15,5/21/20 16:17,Out of range,ng/킠,1,TRIzol
+S16,5/21/20 16:17,Out of range,ng/킠,1,TRIzol
